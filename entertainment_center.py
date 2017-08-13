@@ -1,3 +1,6 @@
+# By Edwin Aquino - Aug. 13, 2017
+# https://github.com/edwinaquino/movietrailers
+# My Favorite Movie Trailers By Edwin Aquino
 import media
 import fresh_tomatoes
 toy_story = media.Movie("Toy Story",
@@ -28,7 +31,6 @@ fellowship_of_the_ring = media.Movie("The Fellowship of the Ring",
 									" Tolkien's classic fantasy novel.",
                                      "http://1.bp.blogspot.com/-huikg011hHE/UD3GffyCI8I/AAAAAAAAL8c/2lqUtOVUJok/s1600/The+Fellowship+Of+The+Ring+(2001)+1.jpg",
                                      "https://www.youtube.com/watch?v=V75dMMIW2B4")
-
 
 movies = [matrix, rush_hour, fellowship_of_the_ring, toy_story,avatar,departed]
 fresh_tomatoes.open_movies_page(movies)

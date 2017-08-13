@@ -1,9 +1,6 @@
 import webbrowser
-	# ACCORDING TO THE GOOGLE STYLE GUIDE FOR PHYTHO SAYS USE CAPITAL LETTER WHEN DEFINING A CLASS
-	# https://google.github.io/styleguide/pyguide.html
 
 class Movie():
-	"""tthis is the documentation"""
 	def __init__(self,movie_title,movie_storyline,poster_image,trailer_youtube):
 		self.title = movie_title
 		self.storyline = movie_storyline
