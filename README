@@ -1,7 +1,17 @@
-This is a Movie Trailer Website project for submission on udacity.com nanodegree program.
-This pyhton code will display 6 of my favorite movie trailors. The web page will display an image poster for each movie.
-To view a trailer, simply click on the image poster to view an exciting trailer to each specific movie.
-I hope you enjoy my favorite movie trailers.
+This is a python generated website which display my favorite movies and shows a triler for each movie. To view the trailer for each movie, follow these instructions to install.
 
-Edwin Aquino
-https://github.com/edwinaquino/movietrailers
+WINDOWS
+
+1. Make sure you have python installed in your PC. To get python, visit https://www.python.org
+
+2. Download or fork from https://github.com/edwinaquino/movietrailers.
+
+3. Unzip the files.
+
+4. Open entertainment_center.py by right-clicking and selecting Open or Double click to start the application.
+
+5. To view a movie trailer, click on the movie image to view the trailer. ENJOY!
+
+
+MAC & LINUX:
+Coming Soon
